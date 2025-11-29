@@ -5,3 +5,6 @@
 2 🏕 ASCII: Codigo estandar para representar caracteres en computadoras.
 
 3 🎱 Arquitectura de Software: Estructura organizada de un sistema de software y sus componentes.
+
+4. 🥇Robot de servicio: Máquina autónoma para apoyo doméstico.
+
