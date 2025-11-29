@@ -8,3 +8,7 @@
 
 4. 🥇Robot de servicio: Máquina autónoma para apoyo doméstico.
 
+5. 🦁 Service Mesh (Malla de Servicios): Capa de infraestructura dedicada a gestionar la comunicación servicio a servicio en arquitecturas de microservicios.
+
+
+
